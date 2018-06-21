@@ -38,13 +38,13 @@ The source code can be found in the Source Code/FitnessForGeeks repository. MIT 
 Once our website is online, the 'Manual' steps are not necessary anymore
 
 ### Test Documents
-A full documentation of our Documents
+A full documentation of our [test documents](https://github.com/FitnessForGeeks/FitnessForGeeks/tree/master/Test%20Documents)
 
 ### Change Log
 Version 1.0.0: Initial Project
 
 ### License
-MIT LICENSE
+[MIT LICENSE](https://github.com/FitnessForGeeks/FitnessForGeeks/blob/master/LICENSE)
 
 ### Other
 More information can be acquired by having a look in the Documents Folder
