@@ -1,0 +1,36 @@
+
+Todo:
+  ☐ finish sidebar sorting and pagination
+  ☐ finish my recipes page (sorting and searching)
+  ☐ Create a overview of the day
+
+Bugs:
+  ☐ Changing the profile picture will not update the navbar's profile picture
+  ☐ Using the website without specifying the required values for the tdee will result in weird behavior.
+Archive:
+  ✘ The user shouldn't be logged in after the page is rendered, because it will result in some unpleasant screen flashing. @started(18-06-17 13:43) @cancelled(18-06-21 21:51) @wasted(4d8h8m7s) @project(Todo)
+  ✘ Maybe use placeholders like youtube @cancelled(18-06-21 21:51) @project(Todo)
+  ✔ Updating account email already used error @done(18-06-21 21:33) @project(Bugs)
+  ✔ Updating account has faulty request @done(18-06-21 11:41) @project(Bugs)
+  ✘ Somehow notify the user when a request fails due to network error @cancelled(18-06-21 21:51) @project(Todo)
+  ✔ Create recipe overview @done(18-06-21 21:50) @project(Todo)
+  ✔ Add a way to create a recipe @done(18-06-21 21:50) @project(Todo)
+  ✔ Feedback when eating recipe (Maybe snackbar) @done(18-06-21 21:50) @project(Todo)
+  ✔ Create a fucking home page it is still empty lol @done(18-06-21 21:50) @project(Todo)
+  ✔ Add the ability to minimize the sidebar @done(18-06-20 19:48) @project(Todo)
+  ✔ Create a way to edit your own profile @done(18-06-20 18:32) @project(Todo)
+  ✔ Add backend for eat it button @done(18-06-19 21:17) @project(Todo)
+  ✔ refactor recipes component @done(18-06-18 17:26) @project(Todo)
+  ✔ Add ingredients to the recipe layout @done(18-06-17 16:47) @project(Todo)
+  ✔ Add reviews to the recipe layout @started(18-06-17 17:45) @done(18-06-17 20:13) @lasted(2h28m53s) @project(Todo)
+  ✔ Finish the design for reviews @done(18-06-18 17:26) @project(Todo)
+  ✔ Add a way to write reviews @done(18-06-18 21:50) @project(Todo)
+  ✔ Add description to recipe layout @started(18-06-16 16:02) @done(18-06-16 16:22) @lasted(20m51s) @project(Todo)
+  ✔ Add a paginator for recipe reviews @done(18-06-18 21:51) @project(Todo)
+  ✔ Clicking the logout button when logged in sometimes doesn't work. @done(18-06-16 16:00) @project(Bugs)
+  ✔ Refreshing the recipes page will result in $refs.recipe to be undefined in the loadRecipes function of the recipes component @done(18-06-19 17:36) @project(Bugs)
+  ✔ Maybe allow the user to see the recipes without login in @done(18-06-19 17:37) @project(Bugs)
+  ✔ Add custom error display @done(18-06-16 19:03) @project(Todo)
+  ✔ Clicking on a different recipe after the page was loaded results in the auto scroll down functionality when skipping through review pages to stop working @done(18-06-19 17:40) @project(Bugs)
+  ✔ Trying to login while being on /editProfile will result in the page not being filled with data @done(18-06-20 18:35) @project(Bugs)
+  ✔ Tell the user when the login failed due to wrong password and/or username. @done(18-06-19 21:17) @project(Todo)
