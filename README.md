@@ -26,10 +26,10 @@ Now the Database from the 'Database' folder has to be created by executing queri
 If you have followed all the steps correctly, you can start the project
 
 ### Known Issues
-Verifying E-mail adress (user can use the website without verifying)
-Using the website without specifying the required values for the TDEE will break the website
-"Passwords do not match" message only disappears after clicking outside the input field (only if they match of course)    
-When changing the title of the recipe the image on the server does not get renamed
+* Verifying E-mail adress (user can use the website without verifying)
+* Using the website without specifying the required values for the TDEE will break the website
+* "Passwords do not match" message only disappears after clicking outside the input field (only if they match of course)    
+* When changing the title of the recipe the image on the server does not get renamed
 
 ### Source Code
 The source code can be found in the [source code](https://github.com/FitnessForGeeks/FitnessForGeeks/tree/master/Source%20Code) folder. MIT License contains legal information and all rights.
