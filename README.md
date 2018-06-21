@@ -1,22 +1,22 @@
 # FitnessForGeeks
 
-Introduction
+### Introduction
 Our website 'Fitness For Geeks' helps people become the best version of themselves by monitoring their daily caloric intake. The user's Total Daily Energy Expenditure (TDEE) combined with his/her exercise pattern results in the optimal amount of calories per day - fitted to the user's goals. Besides tracking calories, our team is eager to develop customised trainingsplans. More upgrades and renovation, for instance to make the Profile Page more dynamic, are planned to be realeased in the future. Since our website is exclusively in English, we expect visitors from all around the world.
 
-Feature list
-English language (international visitors)
-Secure (password encryption)
-Total Daily Energy Expenditure 
-Monitor Daily Caloric Intake
-Write and Read Reviews
-Free Accounts
+### Feature list
+* English language (international visitors)
+* Secure (password encryption)
+* Total Daily Energy Expenditure 
+* Monitor Daily Caloric Intake
+* Write and Read Reviews
+* Free Accounts
 
-Developerss
-Tim Untersberger
-Julian Nobis
-Stefan Waldl
+### Developers
+* Tim Untersberger
+* Julian Nobis
+* Stefan Waldl
 
-Manual
+### Manual
 There are a few things that need to be done before using our website.
 First of all, go to the 'Website' folder
 Before typing 'npm start' (in git bash for instance) you might need to install the node package manager first 'npm install'
@@ -25,26 +25,26 @@ In Visual Studio start the Server-Project
 Now the Database from the 'Database' folder has to be created by executing queries 
 If you have followed all the steps correctly, you can start the project
 
-Known Issues
+### Known Issues
 Verifying E-mail adress (user can use the website without verifying)
 Using the website without specifying the required values for the TDEE will break the website
 "Passwords do not match" message only disappears after clicking outside the input field (only if they match of course)    
 When changing the title of the recipe the image on the server does not get renamed
 
-Source Code
+### Source Code
 The source code can be found in the Source Code/FitnessForGeeks repository. MIT License contains legal information and all rights.
 
-System Requirements
+### System Requirements
 Once our website is online, the 'Manual' steps are not necessary anymore
 
-Test Documents
+### Test Documents
 A full documentation of our Documents
 
-Change Log
+### Change Log
 Version 1.0.0: Initial Project
 
-License
+### License
 MIT LICENSE
 
-Other
+### Other
 More information can be acquired by having a look in the Documents Folder
