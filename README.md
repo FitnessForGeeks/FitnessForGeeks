@@ -32,7 +32,7 @@ Using the website without specifying the required values for the TDEE will break
 When changing the title of the recipe the image on the server does not get renamed
 
 ### Source Code
-The source code can be found in the Source Code/FitnessForGeeks repository. MIT License contains legal information and all rights.
+The source code can be found in the [source code](https://github.com/FitnessForGeeks/FitnessForGeeks/tree/master/Source%20Code) folder. MIT License contains legal information and all rights.
 
 ### System Requirements
 Once our website is online, the 'Manual' steps are not necessary anymore
@@ -47,4 +47,4 @@ Version 1.0.0: Initial Project
 [MIT LICENSE](https://github.com/FitnessForGeeks/FitnessForGeeks/blob/master/LICENSE)
 
 ### Other
-More information can be acquired by having a look in the Documents Folder
+More information can be acquired by having a look in the [Documents Folder](https://github.com/FitnessForGeeks/FitnessForGeeks/tree/master/Documents)
